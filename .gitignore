@@ -4,6 +4,16 @@ DerivedDataCache/
 Intermediate/
 Saved/
 .vs/
+Build/
+DerivedDataCache/
+*.opensdf
+*.sdf
 *.sln
 *.VC.db
 *.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.tmp
+*.log
